@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\dev-spring-boot\07-spring-boot-MVC\01-thymeleafdemo-helloworld"/>
+			<item value="C:\dev-spring-boot\05-spring-boot-rest-security"/>
+			<item value="C:\dev-spring-boot\04-spring-boot-rest-crud\spring-data-rest"/>
+			<item value="C:\dev-spring-boot\04-spring-boot-rest-crud\rest-boot-data-jpa"/>
+			<item value="C:\dev-spring-boot\04-spring-boot-rest-crud\spring-boot-rest"/>
+			<item value="C:\dev-spring-boot\04-spring-boot-rest-crud\20-spring-boot-rest-crud-demo"/>
+			<item value="C:\dev-spring-boot\04-spring-boot-rest-crud"/>
+			<item value="C:\dev-spring-boot\03-spring-boot-hibernate-jpa\01-cruddemo-student"/>
+			<item value="C:\dev-spring-boot\09-@Bean"/>
+			<item value="C:\dev-spring-boot\08-bean-lifecycle"/>
+			<item value="C:\dev-spring-boot\07-bean-scopes"/>
+			<item value="C:\dev-spring-boot\06-lazy-ınitialization"/>
+			<item value="C:\dev-spring-boot\05-primary"/>
+			<item value="C:\dev-spring-boot\04-qualifiers"/>
+			<item value="C:\dev-spring-boot\04-qualifers"/>
+			<item value="C:\dev-spring-boot\02-spring-boot-spring-core\03-setter-ınjectıon"/>
+			<item value="C:\dev-spring-boot\02-spring-boot-spring-core"/>
+			<item value="C:\dev-spring-boot\01-spring-boot-overview\06-properties-demo"/>
+			<item value="C:\dev-spring-boot\01-spring-boot-overview\05-command-line-demo"/>
+			<item value="C:\dev-spring-boot\01-spring-boot-overview\04-actuator-security"/>
+			<item value="C:\dev-spring-boot\01-spring-boot-overview\03- actuator-demo"/>
+			<item value="C:\dev-spring-boot\01-spring-boot-overview\02-dev-tools-demo"/>
+			<item value="C:\dev-spring-boot\mycoolapp"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

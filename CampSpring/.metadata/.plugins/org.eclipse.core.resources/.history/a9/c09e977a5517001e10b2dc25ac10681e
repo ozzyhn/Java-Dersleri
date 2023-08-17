@@ -1,0 +1,7 @@
+package kodlama.io.rentACar.Business.concretes;
+
+import kodlama.io.rentACar.Business.abstracts.BrandService;
+
+public class BrandManager implements BrandService {
+
+}
